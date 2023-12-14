@@ -10,5 +10,12 @@
         "button-name": "off"
       }
     ]
-  }
+  },
+  "browserslist": [
+    "defaults",
+    "not ie 11",
+    "not and_ff <= 119",
+    "not firefox <= 120",
+    "not opera <= 104"
+  ]
 }
